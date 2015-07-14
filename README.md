@@ -4,7 +4,8 @@ Written in 2008 with an ancient version of
 [Processing](http://processing.org), converted to
 [Processing.js](http://processingjs.org).
 
-To view (assuming you have Python installed):
+To see it (assuming you have Python installed), [look
+here](http://techscursion.com/2015/07/trajectory-replanning.html), or:
 
 1. Clone repo locally.
 2. Start basic Python HTTP server: `python -m SimpleHTTPServer`.
